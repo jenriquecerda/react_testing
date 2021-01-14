@@ -11,5 +11,11 @@ $ npm install
 ### Running Server
 
 ```sh
-$ npm start:dev
+$ npm run start:dev
+```
+
+### Testing
+
+```sh
+$ npm run test
 ```
